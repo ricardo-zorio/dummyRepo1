@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 nobody
+=======
+there
+>>>>>>> parent of 33cc9f5... update bar
